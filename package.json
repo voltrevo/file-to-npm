@@ -1,0 +1,26 @@
+{
+  "name": "file-to-npm",
+  "version": "0.0.1",
+  "description": "Creates an npm module from a file",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/file-to-npm.git"
+  },
+  "keywords": [
+    "file",
+    "npm",
+    "quick",
+    "setup",
+    "script"
+  ],
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voltrevo/file-to-npm/issues"
+  },
+  "homepage": "https://github.com/voltrevo/file-to-npm#readme"
+}
