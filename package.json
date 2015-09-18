@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/voltrevo/file-to-npm/issues"
   },
-  "homepage": "https://github.com/voltrevo/file-to-npm#readme"
+  "homepage": "https://github.com/voltrevo/file-to-npm#readme",
+  "dependencies": {
+    "npm": "^3.3.3"
+  }
 }
